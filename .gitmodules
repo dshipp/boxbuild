@@ -1,3 +1,6 @@
 [submodule "submodules/z"]
 	path = submodules/z
 	url = https://github.com/rupa/z.git
+[submodule "submodules/solarized"]
+	path = submodules/solarized
+	url = git://github.com/altercation/solarized.git
