@@ -57,6 +57,7 @@ cask 'virtualbox'
 cask 'virtualbox-extension-pack'
 cask 'vlc'
 cask 'p4merge'
+cask '1password'
 
 # Fonts
 cask 'font-inconsolata'
