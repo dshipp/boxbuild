@@ -1,0 +1,11 @@
+alias ls="ls -Gh"
+alias ..="cd .."
+alias ls-al="ls -al"
+alias al="ls -al"
+alias ll="ls -alhG"
+
+alias hosts="sudo $EDITOR /etc/hosts"
+
+alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
+
+alias fs="stat -f \"%z bytes\""
