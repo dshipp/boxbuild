@@ -58,6 +58,8 @@ cask 'vlc'
 cask 'p4merge'
 cask '1password'
 cask 'pycharm'
+cask 'bettertouchtool'
+cask 'karabiner-elements'
 
 # Fonts
 cask 'font-inconsolata'
