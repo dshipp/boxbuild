@@ -57,7 +57,7 @@ cask 'virtualbox-extension-pack'
 cask 'vlc'
 cask 'p4merge'
 cask '1password'
-cask 'pycharm'
+cask 'pycharm-ce'
 cask 'bettertouchtool'
 cask 'karabiner-elements'
 
